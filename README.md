@@ -15,7 +15,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=coolashishpt&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-**Languages, Tools and Framework:**  
+**Languages, Tools and Frameworks:**  
 
 <code><img height="20" src="https://newrelic-wpengine.netdna-ssl.com/wp-content/uploads/PythonLang-298x298.png"></code>
 <code><img height="20" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg"></code>
