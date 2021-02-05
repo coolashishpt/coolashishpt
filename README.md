@@ -18,7 +18,7 @@
 
 **Languages, Tools and Frameworks:**  
 
-<code><img height="20" src="https://newrelic-wpengine.netdna-ssl.com/wp-content/uploads/PythonLang-298x298.png"></code>
+<code><img height="20" src="https://www.python.org/static/img/python-logo.png"></code>
 <code><img height="20" src="https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg"></code>
 <code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQT2rydzzneg-hTy9Ol9YTz0-qOapwY2_xKOg&usqp=CAU"></code>
 <code><img height="20" src="https://miro.medium.com/max/765/1*qePzd2m_uIPvsozXYh89CQ.png"></code>
