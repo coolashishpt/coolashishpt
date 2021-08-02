@@ -4,11 +4,11 @@
 **coolashishpt/coolashishpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Currently Looking for Internship or Job in ML/DL/Data Science.
-- 🌱 I’m currently learning End-to-End TensorFlow .
-- ✍ Current Project or Competition: SIIM-ISIC Melanoma Classification(Kaggle.com).
-- 👯 I’m looking to collaborate on any projects which is related to ML/DL.
-- 🤔 I’m looking for help in Research Paper.
+- 🔭 Currently Looking for Internship or Job in ML/DL/Data Science or Python Developer.
+- 🌱 I’m currently learning Triton(OpenAI).
+- ✍ Current Project or Competition: Protein Calculator(Using Computer Vision(Application)).
+- 👯 I’m looking to collaborate on any projects which is related to ML/DL/Python.
+- 🤔 I’m looking for help in Design for UI.
 - 💬 Ask me about Machine Learning and Deep Learning.
 - 📫 How to reach me: prasadashish24@gmail.com 
 - ⚡ Fun fact: I like to eat chocolate while doing Coding.
