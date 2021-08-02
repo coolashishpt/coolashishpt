@@ -25,5 +25,5 @@
 <code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
 <code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
 <code><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
-<code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg"></code>
+<code><img height="20" src="https://keras.io/img/logo.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
