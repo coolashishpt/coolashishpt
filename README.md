@@ -24,6 +24,6 @@
 <code><img height="20" src="https://miro.medium.com/max/765/1*qePzd2m_uIPvsozXYh89CQ.png"></code>
 <code><img height="20" src="https://matplotlib.org/_static/logo2_compressed.svg"></code>
 <code><img height="20" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png"></code>
-<code><img height="20" src="https://camo.githubusercontent.com/0d08dc4f9466d347e8d28a951ea51e3430c6f92c/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6b657261732e696f2f696d672f6b657261732d6c6f676f2d323031382d6c617267652d313230302e706e67"></code>
+<code><img height="20" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"></code>
 <code><img height="20" src="https://www.gstatic.com/devrel-devsite/prod/vbf66214f2f7feed2e5d8db155bab9ace53c57c494418a1473b23972413e0f3ac/tensorflow/images/lockup.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
