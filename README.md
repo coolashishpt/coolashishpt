@@ -4,7 +4,7 @@
 **coolashishpt/coolashishpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 Currently Looking for Job in Machine Learning or Software Engineer.
+- 🔭 Currently Looking for Job in Machine Learning.
 - 🌱 I’m currently learning Triton(OpenAI).
 - ✍ Current Project or Competition: Protein Calculator(Using Computer Vision(Application)).
 - 👯 I’m looking to collaborate on any projects which is related to ML/DL/Python.
