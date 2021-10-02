@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Triton(OpenAI).
 - ✍ Current Project or Competition: Protein Calculator(Using Computer Vision(Application)).
 - 👯 I’m looking to collaborate on any projects which is related to ML/DL/Python.
-- 🤔 I’m looking for help in Design for UI.
+- 🤔 I’m looking for help in UI Design.
 - 💬 Ask me about Machine Learning and Deep Learning.
 - 📫 How to reach me: prasadashish24@gmail.com 
 - ⚡ Fun fact: I like to eat chocolate while doing Coding.
