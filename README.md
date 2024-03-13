@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I am Software Engineer - Python.
-- 🌱 I’m currently learning Triton(OpenAI).
+- 🌱 I’m currently learning LLM-FineTune.
 - ✍ Current Project or Competition: Protein Calculator(Using Computer Vision(Application)).
 - 👯 I’m looking to collaborate on any projects which is related to ML/DL/Python.
 - 🤔 I’m looking for help in UI Design.
