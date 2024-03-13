@@ -11,7 +11,7 @@
 - 🤔 I’m looking for help in UI Design.
 - 💬 Ask me about Machine Learning and Deep Learning.
 - 📫 How to reach me: prasadashish24@gmail.com 
-- ⚡ Fun fact: I like to eat chocolate while doing Coding.
+- ⚡ Fun fact: I like to eat chocolate while Coding.
  <h4>Keep Learning....</h4>
 
 
